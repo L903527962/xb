@@ -1,0 +1,9 @@
+[{
+          "request_body":{
+        "userid": "zhangwu01",
+        "name": "张wu",
+        "mobile": "13800000095",
+        "department": [1],
+        "position": "产品经理"
+    }
+}]
